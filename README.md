@@ -1,6 +1,7 @@
    # 🗺️ CRUD-API
    
    Trabalho desenvolvido em squad para o módulo 5 do curso de Desenvolvedor Fullstack - Programadores Cariocas.
+   ![badge-status](https://img.shields.io/badge/status-Finalizado_com_Sucesso-green?style=for-the-badge)
    
 ### ⚜ OBJETIVOS
 
